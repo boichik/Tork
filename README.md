@@ -4,3 +4,6 @@
 ## Стек
 * HTML
 * CSS(SASS)
+
+## Полная страница
+![FullPage](/fullpage.png)
